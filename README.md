@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at<a href="[https://github.com/Snehavijayan555?tab=repositories](https://github.com/Snehavijayan555?tab=repositories)">My Repositories</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Snehavijayan555?tab=repositories">My Repositories</a>
 
 - 💬 Ask me about **JavaScript,Node.js,Express.js,MongoDB**
 
