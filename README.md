@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehavijayan555&label=Profile%20views&color=0e75b6&style=flat" alt="snehavijayan555" /> </p>
 
-- 🔭 I’m currently working on [Luvid](https://github.com/Snehavijayan555/luvidcosmetics)
+- 🔭 I’m currently working on [Luvid.com](https://github.com/Snehavijayan555/luvidcosmetics)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Snehavijayan555?tab=repositories](https://github.com/Snehavijayan555?tab=repositories)
+- 👨‍💻 All of my projects are available at<a href="[https://github.com/Snehavijayan555?tab=repositories](https://github.com/Snehavijayan555?tab=repositories)">My Repositories</a>
 
 - 💬 Ask me about **JavaScript,Node.js,Express.js,MongoDB**
 
