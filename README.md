@@ -95,5 +95,6 @@
 
 
 <div align="center">
-![snake gif](https://github.com/Snehavijayan555/Snehavijayan555/blob/output/github-snake-dark.svg)
-  </div>
+  <img src="https://github.com/Snehavijayan555/Snehavijayan555/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
