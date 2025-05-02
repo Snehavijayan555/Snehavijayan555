@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript,Node.js,Express.js,MongoDB**
 
-- 📫 How to reach me **snehavijayan666@gmail.com**
+- 📫 How to reach me **snehatvijayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
