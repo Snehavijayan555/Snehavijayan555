@@ -26,9 +26,7 @@
  <p align="left">
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-</a>
-<img src="https://img.shields.io/badge/C++-114836?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C++-114836?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="C++"></a>
 <img src="https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white">
@@ -46,6 +44,14 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+</p>
+
 
 
 
