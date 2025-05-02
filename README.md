@@ -25,11 +25,16 @@
 <h3 align="left">Languages</h3>
  <p align="left">
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-  <img src="https://img.shields.io/badge/C++-114836?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55cddea1a2f23258f1fc6e05d94b7f2d3e7d56fe4d1e548b319a511e46b126cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/55cddea1a2f23258f1fc6e05d94b7f2d3e7d56fe4d1e548b319a511e46b126cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;"></a>  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+</a>
+<img src="https://img.shields.io/badge/C++-114836?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+</a>
+
   
   
   
