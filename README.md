@@ -10,8 +10,10 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Snehavijayan555?tab=repositories">My Repositories</a>
 
-- 💬 Ask me about **JavaScript,Node.js,Express.js,MongoDB**
+- 💬 Tech Stack I love **JavaScript | Node.js | Express.js | MongoDB**
 
+- 🔗 Let's connect ideas, not just APIs
+  
 - 📫 How to reach me **snehatvijayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
