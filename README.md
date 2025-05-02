@@ -92,3 +92,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehavijayan555&" alt="snehavijayan555" /></p>
+
+
+<div align="center">
+![snake gif](https://github.com/Snehavijayan555/Snehavijayan555/blob/output/github-snake-dark.svg)
+  </div>
