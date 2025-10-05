@@ -91,10 +91,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehavijayan555&show_icons=true&locale=en&layout=compact" alt="snehavijayan555" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehavijayan555&" alt="Snehavijayan555" /></p>
 
 
-<div align="center">
-  <img src="https://github.com/Snehavijayan555/Snehavijayan555/blob/output/github-snake-dark.svg" alt="snake gif"/>
-</div>
 
